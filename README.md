@@ -8,7 +8,7 @@ Presented are multiple choice inputs that can be selected and their values will 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E3M3dxYWk0dGQ5bGVsdmFoaWVvcmJjdjNoMWt6b3B3Zml4eWVpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKQhtqApPR0OHfAZpf/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlha202MXg1ajN1ZjUxcndvNWlmcWEweWRhbzF1OTlxc2t1Y2xrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKQhtqApPR0OHfAZpf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIPHY  
