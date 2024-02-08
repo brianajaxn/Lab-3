@@ -1,5 +1,5 @@
 ## Unit 3 Lab: ☕ On My Grind ##
-Submitted by: ** Briana Jackson **
+Submitted by: Briana Jackson
 
 This web application allows users to quiz themselves on popular Starbucks drinks!
 Presented are multiple choice inputs that can be selected and their values will populate the answer box above them. Once submitted, the answer boxes will turn red if the answers placed  are incorrect and purple if the answers are correct. 
